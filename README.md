@@ -11,34 +11,34 @@ This project demonstrates the implementation of a complete DevSecOps pipeline wi
 - OWASP ZAP for security testing
 - Integration between Jenkins and SonarQube
 
-## Components
+## Demo Videos
 
 ### Jenkins Setup
 ![Jenkins Setup](./images/JenkinSetup.png)
 
+**[▶️ Click to view Jenkins-SonarQube Integration Demo](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/Integreting-jenkin-sonarQube-compressed.mov)**
+
 Jenkins is configured to automate the build, test, and deployment processes.
 
-### SonarQube Integration
+### SonarQube Setup and Integration
+
+**[▶️ Click to view SonarQube Setup Demo](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/settingUp-sonarQube.mov)**
+
 The integration between Jenkins and SonarQube enables continuous code quality and security scanning.
 
-**Demo Video:** [Jenkins-SonarQube Integration](./videos/Integreting-jenkin-sonarQube-compressed.mov)
+### OWASP ZAP Security Testing
 
-### OWASP ZAP Setup
+**[▶️ Click to view OWASP Installation Demo](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/OWASP_Installation.mov)**
+
+**[▶️ Click to view OWASP Setup Demo](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/OWASP-SetUp.mov)**
+
 OWASP ZAP is used for security testing and vulnerability scanning.
 
-**Demo Videos:**
-- [OWASP Installation](./videos/OWASP_Installation.mov)
-- [OWASP Setup](./videos/OWASP-SetUp.mov)
+### Container Image Scanning
 
-### Image Scanning with SonarQube
+**[▶️ Click to view Image Scanning with SonarQube Demo](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/Scanning_Image_SonaeQube.mov)**
+
 Demonstrates container image scanning capabilities using SonarQube.
-
-**Demo Video:** [Image Scanning with SonarQube](./videos/Scanning_Image_SonaeQube.mov)
-
-### SonarQube Setup
-Detailed setup of SonarQube server and configuration.
-
-**Demo Video:** [Setting Up SonarQube](./videos/settingUp-sonarQube.mov)
 
 ## Installation and Setup
 
