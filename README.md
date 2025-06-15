@@ -16,29 +16,25 @@ This project demonstrates the implementation of a complete DevSecOps pipeline wi
 ### Jenkins Setup
 ![Jenkins Setup](./images/JenkinSetup.png)
 
-**[▶️ Click to view Jenkins-SonarQube Integration Demo](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/Integreting-jenkin-sonarQube-compressed.mov)**
+### Jenkins-SonarQube Integration
+<video src="https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/Integreting-jenkin-sonarQube-compressed.mov" controls="controls" style="max-width: 730px;">
+</video>
 
-Jenkins is configured to automate the build, test, and deployment processes.
+### SonarQube Setup
+<video src="https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/settingUp-sonarQube.mov" controls="controls" style="max-width: 730px;">
+</video>
 
-### SonarQube Setup and Integration
+### OWASP Installation
+<video src="https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/OWASP_Installation.mov" controls="controls" style="max-width: 730px;">
+</video>
 
-**[▶️ Click to view SonarQube Setup Demo](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/settingUp-sonarQube.mov)**
+### OWASP Setup
+<video src="https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/OWASP-SetUp.mov" controls="controls" style="max-width: 730px;">
+</video>
 
-The integration between Jenkins and SonarQube enables continuous code quality and security scanning.
-
-### OWASP ZAP Security Testing
-
-**[▶️ Click to view OWASP Installation Demo](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/OWASP_Installation.mov)**
-
-**[▶️ Click to view OWASP Setup Demo](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/OWASP-SetUp.mov)**
-
-OWASP ZAP is used for security testing and vulnerability scanning.
-
-### Container Image Scanning
-
-**[▶️ Click to view Image Scanning with SonarQube Demo](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/Scanning_Image_SonaeQube.mov)**
-
-Demonstrates container image scanning capabilities using SonarQube.
+### Image Scanning with SonarQube
+<video src="https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/Scanning_Image_SonaeQube.mov" controls="controls" style="max-width: 730px;">
+</video>
 
 ## Installation and Setup
 
