@@ -19,19 +19,26 @@ This project demonstrates the implementation of a complete DevSecOps pipeline wi
 Jenkins is configured to automate the build, test, and deployment processes.
 
 ### SonarQube Integration
-![SonarQube Integration](./images/Integreting-jenkin-sonarQube.png)
+The integration between Jenkins and SonarQube enables continuous code quality and security scanning.
 
-SonarQube is integrated with Jenkins to provide continuous code quality and security scanning.
+**Demo Video:** [Jenkins-SonarQube Integration](./videos/Integreting-jenkin-sonarQube-compressed.mov)
 
 ### OWASP ZAP Setup
-![OWASP Setup](./images/OWASP-SetUp.png)
-
 OWASP ZAP is used for security testing and vulnerability scanning.
 
-### Image Scanning with SonarQube
-![Image Scanning](./images/Scanning_Image_SonaeQube.png)
+**Demo Videos:**
+- [OWASP Installation](./videos/OWASP_Installation.mov)
+- [OWASP Setup](./videos/OWASP-SetUp.mov)
 
+### Image Scanning with SonarQube
 Demonstrates container image scanning capabilities using SonarQube.
+
+**Demo Video:** [Image Scanning with SonarQube](./videos/Scanning_Image_SonaeQube.mov)
+
+### SonarQube Setup
+Detailed setup of SonarQube server and configuration.
+
+**Demo Video:** [Setting Up SonarQube](./videos/settingUp-sonarQube.mov)
 
 ## Installation and Setup
 
@@ -51,10 +58,6 @@ Detailed setup instructions for each component:
 1. Install OWASP ZAP
 2. Configure security scanning profiles
 3. Integrate with CI/CD pipeline
-
-## Demo Videos
-
-Demo videos showcasing the setup and integration process are available upon request.
 
 ## Benefits
 
