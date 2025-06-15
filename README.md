@@ -17,24 +17,29 @@ This project demonstrates the implementation of a complete DevSecOps pipeline wi
 ![Jenkins Setup](./images/JenkinSetup.png)
 
 ### Jenkins-SonarQube Integration
-<video src="https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/Integreting-jenkin-sonarQube-compressed.mov" controls="controls" style="max-width: 730px;">
-</video>
+![Jenkins-SonarQube Integration](./gifs/jenkins-sonarqube-integration.gif)
+
+[▶️ Watch Full Video](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/Integreting-jenkin-sonarQube-compressed.mov)
 
 ### SonarQube Setup
-<video src="https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/settingUp-sonarQube.mov" controls="controls" style="max-width: 730px;">
-</video>
+![SonarQube Setup](./gifs/sonarqube-setup.gif)
+
+[▶️ Watch Full Video](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/settingUp-sonarQube.mov)
 
 ### OWASP Installation
-<video src="https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/OWASP_Installation.mov" controls="controls" style="max-width: 730px;">
-</video>
+![OWASP Installation](./gifs/owasp-installation.gif)
+
+[▶️ Watch Full Video](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/OWASP_Installation.mov)
 
 ### OWASP Setup
-<video src="https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/OWASP-SetUp.mov" controls="controls" style="max-width: 730px;">
-</video>
+![OWASP Setup](./gifs/owasp-setup.gif)
+
+[▶️ Watch Full Video](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/OWASP-SetUp.mov)
 
 ### Image Scanning with SonarQube
-<video src="https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/Scanning_Image_SonaeQube.mov" controls="controls" style="max-width: 730px;">
-</video>
+![Image Scanning with SonarQube](./gifs/image-scanning.gif)
+
+[▶️ Watch Full Video](https://github.com/Anshuman-git-code/DevSecOps-Setup-Integretion/raw/main/videos/Scanning_Image_SonaeQube.mov)
 
 ## Installation and Setup
 
